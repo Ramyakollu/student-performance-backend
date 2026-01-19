@@ -1,9 +1,6 @@
-Flask
-Flask-Cors
-SQLAlchemy
-psycopg2-binary
-python-dotenv
+flask
+flask-cors
+numpy
 scikit-learn
 pandas
-numpy
 gunicorn
